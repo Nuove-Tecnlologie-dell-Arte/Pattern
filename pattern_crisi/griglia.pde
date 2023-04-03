@@ -1,5 +1,5 @@
 int i;
-int dquad=180;
+int dquad=120;
 int xgriglia=1;
 void griglia(){
 
